@@ -136,7 +136,7 @@ h3 {
 /* central img */
 .central-img-1, .central-img-2, .central-img-3 {
     width: 100%;
-    height: 80vh;
+    height: 700px;
     display: flex;
     flex-direction: column;
     justify-content: center;
